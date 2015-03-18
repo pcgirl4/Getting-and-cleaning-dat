@@ -14,3 +14,6 @@ This script uses a database from http://archive.ics.uci.edu/ml/datasets/Human+Ac
 For more information about the data, please read the <b> codebook.md </b>. 
 
 Thank you for your time reviewing this work.
+
+Source:
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
